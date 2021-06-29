@@ -34,6 +34,8 @@ This notetaker was made for a small business owner who wanted to keep track of t
 
 <a name="test-instructions"></a>
 
+Notetake Images
+
 ![Notetaker Image #1](./assets/11-express-homework-demo-01.png) <br>
 ![Notetaker Image #2](./assets/11-express-homework-demo-02.png) <br>
 
