@@ -13,7 +13,7 @@ module.exports = (app) => {
   });
 
   app.post("api/notes", (req, res) => {
-    // Empty out the arrays of data
+    // Empty out the arrays of data.
     notes.length = 0;
 
     res.json({ ok: true });
